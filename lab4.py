@@ -10,3 +10,23 @@ If the user could not answer the question with the max attempts, then print "You
 then print "The correct answer is "Sacramento".
 
 """
+
+"""
+main
+  question = "What is the capital of California"
+  Answer = "Sacramento"
+  ask(question,answer)
+
+ask 
+    tries = 0
+    loop three times
+        increment tries by 1
+        ask user input()
+        check to see if user input is equal to answer
+            if so, print "Correct" then exit the loop
+    if not correct
+        print to the user "You have used up your allotment of guesses." 
+        print the correct answer "The correct answer is 'Sacramento'"
+ 
+main
+"""
