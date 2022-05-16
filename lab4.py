@@ -10,5 +10,3 @@ If the user could not answer the question with the max attempts, then print "You
 then print "The correct answer is "Sacramento".
 
 """
-
-lkdgvjkds
